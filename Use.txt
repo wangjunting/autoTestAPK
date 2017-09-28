@@ -1,0 +1,2 @@
+配置步骤： 
+	配置model，写上手机号码，然后配置token，然后配置factory，然后再reciver里面改变token,检查服务是否开启
