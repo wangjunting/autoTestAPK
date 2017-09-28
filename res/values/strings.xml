@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">自动化测试工具</string>
+    <string name="hello_world">绑定</string>
+    <string name="tip">自动化测试帮助工具绑定</string>
+    <string name="phone">电话号码：</string>
+    <string name="password">服务密码：</string>
+    <string name="error">错误</string>
+    <string name="success">保存成功</string>
+    <string name="failed">保存失败</string>
+
+    <!-- 第一页的配置文字 -->
+    <string name="tip_name">自动化测试工具</string>
+    <string name="welcome_1">欢迎使用自动化测试APK</string>
+    <string name="welcome_2">绑定后，应用会提取每个运营商短信中的短信验证码，写入到mysql数据库</string>
+    <string name="welcome_3"></string>
+    <string name="welcome_4">请输入您的手机号码和服务密码</string>
+    <string name="number">请输入您的手机号码</string>
+    <string name="fpassword">请输入您的手机服务密码</string>
+    <string name="wjpsd">忘记服务密码</string>
+    <!-- 第二页的配置文字 -->
+    <string name="note_1">  您的手机号码已经成功绑定</string>
+    <string name="note_2">  感谢您使用自动化测试工具,自动化测试运行时时需要转发验证码短信,请保持APP后台服务运行</string>
+    <string name="note_3"></string>
+
+    <!-- 接收转发的手机号 -->
+    <string name="receive_phone">13510210849</string>
+
+</resources>
